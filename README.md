@@ -65,5 +65,5 @@ $ git branch -d <branch_name>
 
 ### Branch on github
 ```
-$ git push main --delete <branch_name>
+$ git push origin --delete <branch_name>
 ```
